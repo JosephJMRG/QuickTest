@@ -12,7 +12,8 @@
 /**
  * @brief Version 4
  * (Me olvide que podia pasar directamente el argumento
- * declarado a la funcion) (hice lo de java pa nada aksjdkajsd)
+ * declarado a la funcion en la siguiente línea) 
+ * (hice lo de java pa nada aksjdkajsd)
  */
  
 #include <stdio.h>
