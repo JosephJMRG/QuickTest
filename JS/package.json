@@ -1,0 +1,16 @@
+{
+  "name": "suma-numeros-reales",
+  "version": "1.0.0",
+  "description": "Suma dos numeros reales ingresados por el usuario",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"TE ECHASTE EL CODIGOO AAAAAAA\" && exit 1"
+  },
+  "author": "JosephJMRG",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
